@@ -336,6 +336,172 @@ let quotes = [
             "Religion",
             "Wisdom"
         ]
+    },
+    {
+        "quote": "Be nice to nerds. Chances are you'll end up working for one.",
+        "author": "Bill Gates",
+        "profession": "American business magnate",
+        "topics": [
+            "Humor",
+            "Advice"
+        ]
+    },
+    {
+        "quote": "Your most unhappy customers are your greatest source of learning.",
+        "author": "Bill Gates",
+        "profession": "American business magnate",
+        "topics": [
+            "Inspirational",
+            "People"
+        ]
+    },
+    {
+        "quote": "Success is a lousy teacher. It seduces smart people into thinking they can't lose.",
+        "author": "Bill Gates",
+        "profession": "American business magnate",
+        "topics": [
+            "Inspirational",
+            "People"
+        ]
+    },
+    {
+        "quote": "Life is not fair; get used to it.",
+        "author": "Bill Gates",
+        "profession": "American business magnate",
+        "topics": [
+            "Inspirational",
+            "Wisdom"
+        ]
+    },
+    {
+        "quote": "If you can't make it good, at least make it look good.",
+        "author": "Bill Gates",
+        "profession": "American business magnate",
+        "topics": [
+            "Inspirational",
+            "Wisdom",
+            "Advice"
+        ]
+    },
+    {
+        "quote": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+        "author": "Albert Einstein",
+        "profession": "Theoretical physicist",
+        "topics": [
+            "Life",
+            "Inspirational"
+        ]
+    },
+    {
+        "quote": "Nearly all men can stand adversity, but if you want to test a man’s character, give him power.",
+        "author": "Abraham Lincoln",
+        "profession": "16th U.S. President",
+        "topics": [
+            "Philosophy",
+            "Wisdom"
+        ]
+    },
+    {
+        "quote": "The best way to predict your future is to create it.",
+        "author": "Abraham Lincoln",
+        "profession": "16th U.S. President",
+        "topics": [
+            "Life",
+            "Philosophy",
+            "Wisdom"
+        ]
+    },
+    {
+        "quote": "I would rather be a little nobody, then to be a evil somebody.",
+        "author": "Abraham Lincoln",
+        "profession": "16th U.S. President",
+        "topics": [
+            "Philosophy",
+            "Wisdom"
+        ]
+    },
+    {
+        "quote": "I will prepare and some day my chance will come.",
+        "author": "Abraham Lincoln",
+        "profession": "16th U.S. President",
+        "topics": [
+            "Inspirational",
+            "Life"
+        ]
+    },
+    {
+        "quote": "Important principles may, and must, be inflexible.",
+        "author": "Abraham Lincoln",
+        "profession": "16th U.S. President",
+        "topics": [
+            "Philosophy",
+            "Wisdom",
+            "Inspirational"
+        ]
+    },
+    {
+        "quote": "Tact is the ability to describe others as they see themselves.",
+        "author": "Abraham Lincoln",
+        "profession": "16th U.S. President",
+        "topics": [
+            "Philosophy",
+            "Wisdom"
+        ]
+    },
+    {
+        "quote": "You cannot escape the responsibility of tomorrow by evading it today.",
+        "author": "Abraham Lincoln",
+        "profession": "16th U.S. President",
+        "topics": [
+            "Inspirational",
+            "Philosophy",
+            "Wisdom"
+        ]
+    },
+    {
+        "quote": "Knowing thyself, that is the greatest wisdom.",
+        "author": "Galileo Galilei",
+        "profession": "Italian Polymath",
+        "topics": [
+            "Inspirational",
+            "Wisdom"
+        ]
+    },
+    {
+        "quote": "To be humane, we must ever be ready to pronounce that wise, ingenious and modest statement 'I do not know'.",
+        "author": "Galileo Galilei",
+        "profession": "Italian Polymath",
+        "topics": [
+            "Inspirational",
+            "Wisdom"
+        ]
+    },
+    {
+        "quote": "Two truths cannot contradict one another.",
+        "author": "Galileo Galilei",
+        "profession": "Italian Polymath",
+        "topics": [
+            "Inspirational",
+            "Wisdom"
+        ]
+    },
+    {
+        "quote": "Where the senses fail us, reason must step in.",
+        "author": "Galileo Galilei",
+        "profession": "Italian Polymath",
+        "topics": [
+            "Inspirational",
+            "Wisdom"
+        ]
+    },
+    {
+        "quote": "All truths are easy to understand once they are discovered; the point is to discover them.",
+        "author": "Galileo Galilei",
+        "profession": "Italian Polymath",
+        "topics": [
+            "Inspirational",
+            "Wisdom"
+        ]
     }
 ];
  function getRandomColor () {
